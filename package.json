@@ -1,4 +1,6 @@
 {
+  "author":"Muhmmad Zeeshan Ali",
+  "Description":"FreeCodeCamp practice project to learn Express.js",
   "name": "fcc-learn-node-with-express",
   "version": "0.1.0",
   "dependencies": {
@@ -10,6 +12,6 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node --watch server.js"
   }
 }
